@@ -1,1 +1,4 @@
+HEAD
 This is Branch1 content
+This is Branch2 content
+f60690d (Branch2 edit in conflict.txt)
